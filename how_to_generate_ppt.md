@@ -17,18 +17,18 @@
 ## Tools
 
     - pandoc 
-    - reveal.js</section><section id="install-pandoc" class="slide level2">
+    - reveal.js
 
 ## Install pandoc
 
     ➜ cabal install cabal-install
     ➜ ~/.cabal/bin/cabal update
-    ➜ ~/.cabal/bin/cabal install pandoc</section><section id="output-html-ppt" class="slide level2">
+    ➜ ~/.cabal/bin/cabal install pandoc
 
 ## Output html ppt
 
     ➜ cd ~/.cabal/bin
-    ➜ ./pandoc -s -t revealjs source.md -o output.html -V theme=default  --self-contained</section></section><section><section id="some-params" class="titleslide slide level1">
+    ➜ ./pandoc -s -t revealjs source.md -o output.html -V theme=default  --self-contained
 
 ## Some params
 
@@ -40,16 +40,16 @@
         markdown, markdown_github, markdown_mmd, markdown_phpextra,
         markdown_strict, mediawiki, native, odt, opendocument, opml,
         org, pdf*, plain, revealjs, rst, rtf, s5, slideous, slidy,
-        texinfo, textile</section><section id="v-theme" class="slide level2">
+        texinfo, textile
 
 ### -V theme=
 
     Select theme. Can be black, league, night, simple, sky, white, beige, blood, moon, serif, solarized in reveal.js
-    Can create theme.</section><section id="i" class="slide level2">
+    Can create theme.
 
 ### -i
 
-    Show steps by steps.</section><section id="v-transition" class="slide level2">
+    Show steps by steps.
 
 ### -V transition=
 
@@ -58,10 +58,8 @@
 
 # End
 
-</section><section id="this-ppts-markdown-code" class="slide level2">
-
 ## This PPT's markdown code
-
+```
 > % How to generate ppt
 >     % FengLiji
 >     % 2015-4-ForthWeek> 
@@ -116,6 +114,7 @@
 >     
 >     ## This is an online Editor
 >     ![Slides]<http://slides.com></section><section id="this-is-an-online-editor" class="slide level2">
+```
 
 # This is an online Editor
 [Slides][http://slides.com](http://slides.com)
