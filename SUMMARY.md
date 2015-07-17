@@ -4,3 +4,4 @@
 * [Performance: isinstance/provideBy/type(X) in python](pfm_type_ins.md)
 * [Suggestions for improving the performance of the code](performance_suggestions.md)
 * [Howto generate ppt](How_to_generate_ppt.md)
+* [Knowledge about Metaprogramming(1)](metaprogramming_1.md)
