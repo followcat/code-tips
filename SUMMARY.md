@@ -8,3 +8,4 @@
 * [Knowledge about Metaprogramming(2)](metaprogramming_2.md)
 * [The theoretical knowledge of formal verification](formal_verification_theory.md)
 * [A hodgepodge of tools: Hyper Collaborative](hyper_collaborative_tools.md)
+* [Visualization and Server Design](visualization_server_design.md)
